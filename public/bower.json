@@ -1,0 +1,23 @@
+{
+  "name": "express-starter",
+  "description": "",
+  "main": "",
+  "authors": [
+    "kamsky <kamsky@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rtagra/express-starter",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mocha": "^2.5.3",
+    "chai": "^3.5.0",
+    "ejs": "^1.0.0"
+  }
+}
